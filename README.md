@@ -16,6 +16,6 @@ I work remontly and like to travel a lot.
 <code><img src="[https://i0.wp.com/css-tricks.com/wp-content/uploads/2022/01/node-js-logo.png?fit=1200%2C600&ssl=1](https://www.liblogo.com/img-logo/yi3964y40d-yii-logo-yii2-package-koolreport.png)" width="50px"></code>
 
 
-&nbsp; Current location:Xorazm,Uzbekistan
-&nbsp;Ask me about anything,I am happy to help
+&nbsp; Current location:Xorazm,Uzbekistan<br>
+&nbsp;Ask me about anything,I am happy to help<br>
 &nbsp;How to reach me:[@mashhurqurbonboyev](https://instagram.com/misha_007)
