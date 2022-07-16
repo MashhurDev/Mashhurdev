@@ -5,5 +5,5 @@ I make videos on YouTube about software development.<br>
 I work remontly and like to travel a lot.
 
 <a href="https://www.youtobe.com/azizbekkhabibullaev">
- <img src="https://logolook.net/wp-content/uploads/2021/06/Youtube-Logo.png" >
+ <img src="https://logolook.net/wp-content/uploads/2021/06/Youtube-Logo.png" width="27px">
 </a>
